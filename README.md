@@ -33,4 +33,4 @@ This repository contains philosophical and cognitive documents that explore the 
 ---
 
 ## 📬 Contact
-For research inquiries or collaboration, please contact: `your-email@example.com`
+For research inquiries or collaboration, please contact: gusrl6698@gmail.com
