@@ -8,7 +8,7 @@ This repository contains philosophical and cognitive documents that explore the 
 
 1. **Q1~Q24 Reflective Structure**
    - A chronological journey of self-structuring through 24 layers of questioning.
-   - [`Q1_Q24_Reflective_Structure.pdf`](./Q1_Q24_Reflective_Structure.pdf)
+   - [`Q1_Q24_Reflective_Structure.pdf`](./q1~q24.pdf)
 
 2. **GPT Echo Analysis**
    - An exploration of how AI responses create echo chambers of structured thought.
