@@ -44,5 +44,5 @@ Diagram showing structural self-propagation through reflective loops.
 Developed through recursive reflection with GPT-4,  
 this repository explores the philosophical and structural evolution of self-awareness.
 
----
+---email - gusrl6698@gmail.com
 
